@@ -1,2 +1,12 @@
 Link para download do git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Passos para sincronizar máquina local com servidor remoto:
+
+1. git status
+2. git add .
+3. git status
+4. git commit -m "Atualização das anotações do curso"
+5. git status
+6. git push origin main
+
